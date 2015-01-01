@@ -27,11 +27,11 @@ html>
          <li>Work with children of various ages and abilities; I often help children who have special 
    needs</li></ul>
    </div>
-
-<div class="container">
-        <h4><p>User Experience Professonials Association (UXPA MN) Mentorship Program, 11/14 - 4/15</p>
-            <p>Mentor: Ryan Loomis</p></h4>
-  <ul><li>Work with mentor to gain a better understanding of what tasks UX Designers do on a daily basis</li></ul></div>
+  
+  <div class="container">
+        <h4>User Experience Professonials Association (UXPA MN) Mentorship Program
+            <p>Mentor: Ryan Loomis, 11/14 - 4/15</p></h4><ul>
+  <li>Work with mentor to gain a better understanding of what tasks UX Designers do on a daily basis</li></ul></div>
 
 <div class="container">
   <h4>Do You Bowl LLC & DYB Tournaments        
